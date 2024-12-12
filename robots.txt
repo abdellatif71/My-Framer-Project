@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://clever-simplicity-817533.framer.app/sitemap.xml
