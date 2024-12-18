@@ -62,6 +62,5 @@ Envoyer des pull requests.
 
 Contact
 
-Si vous avez des questions ou des commentaires, veuillez nous contacter via la section "Kontakt" du site.
 
 
